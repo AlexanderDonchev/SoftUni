@@ -1,0 +1,6 @@
+c:\users\ibm_admin\documents\visual studio 2015\Projects\OOPEPEmpires\Empires\bin\Debug\Empires.exe.config
+c:\users\ibm_admin\documents\visual studio 2015\Projects\OOPEPEmpires\Empires\bin\Debug\Empires.exe
+c:\users\ibm_admin\documents\visual studio 2015\Projects\OOPEPEmpires\Empires\bin\Debug\Empires.pdb
+c:\users\ibm_admin\documents\visual studio 2015\Projects\OOPEPEmpires\Empires\obj\Debug\Empires.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2015\Projects\OOPEPEmpires\Empires\obj\Debug\Empires.exe
+c:\users\ibm_admin\documents\visual studio 2015\Projects\OOPEPEmpires\Empires\obj\Debug\Empires.pdb
